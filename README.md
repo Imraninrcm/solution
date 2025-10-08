@@ -9,7 +9,7 @@ A simple and clean web gallery to display solutions for the "Teen Game Playbook:
 
 <br />
 
-![Project Screenshot](./assests/screenshot.png)
+![Project Screenshot](./assests/icons.png)
 
 ---
 
@@ -46,7 +46,7 @@ You only need a modern web browser (like Chrome, Firefox, or Edge).
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/[your-github-username]/[your-repo-name].git
+    git clone https://github.com/Imraninrcm/solution.git
     ```
 2.  Navigate to the project directory:
     ```sh
